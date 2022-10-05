@@ -1,0 +1,5 @@
+project: domino-feast
+registry: data/registry.db
+provider: local
+offline_store:
+    type: file
